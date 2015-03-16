@@ -8,8 +8,8 @@
 	android:padding="10dp">
 
 	<ImageView
-		android:layout_height="100dp"
-		android:layout_width="100dp"
+		android:layout_height="60dp"
+		android:layout_width="60dp"
 		android:src="@drawable/ic_nstu"
 		android:id="@+id/simplelistitem1ImageView1"/>
 
